@@ -1,0 +1,62 @@
+
+body{
+    background-image:url(../images/crystalpic.jpeg);
+}
+header{
+    background-color:orangered;
+    font-size:30px;
+    font-weight:bold;
+    color:white;
+    width: 240px;
+    padding:15px;
+    margin-bottom:10px;
+}
+p{
+    color:black;
+    background-color:beige;
+    width:400px;
+    padding:15px;
+    margin:0px;
+    padding-bottom:10px;
+    
+}
+#points{
+    background-color:lightgreen;
+    width:150px;
+    height:90px;
+    margin-top:10px;
+    float:left;
+}
+#score{
+    background-color:lightblue;
+    height:90px;
+    width:80px;
+    float:left;
+    margin-top:10px;
+    margin-left:10px;
+    font-size:15px;
+    
+}
+#images{
+    clear:none;
+    margin:110px;
+    margin-left:10px;
+    margin-bottom:10px;
+
+}
+#scoring{
+    background-color:teal;
+    color:white;
+    font-size:16px;
+    width:160px;
+    height:10px;
+    padding:15px;
+}
+#numberScored{
+    background-color:teal;
+    color:white;
+    font-size:20px;
+    width:160px;
+    height:60px;
+    margin-top:10px;
+}
