@@ -29,4 +29,4 @@ Here is how the game works:
     <img src="assets/images/image.png" width="400px"</img> 
 </div>
 
-<a href = 'https://dyuen510.github.io/unit-4-game/'>
+<a href = 'https://dyuen510.github.io/unit-4-game/'>Link to App</a>
