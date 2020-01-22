@@ -24,3 +24,9 @@ Here is how the game works:
      * When the game begins again, the player should see a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
 
    * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
+
+<div align="center">
+    <img src="assets/images/image.png" width="400px"</img> 
+</div>
+
+<a href = 'https://dyuen510.github.io/unit-4-game/'>
